@@ -1,1 +1,14 @@
-
+<!DOCTYPE>
+<html>
+<head>
+<meta charset="utf-8"> (codificacion a utilizar)
+<meta name="viewport" content="widthd=device-width"> (content es para que el ancho del contenido use el ancho de la pantalla)
+<title>...</title> (titulo que sale en las busquedas por internet)
+<meta name="theme-color" content="uft..." > (cambia el color de parte superior cuando se pone chiquito)
+<link rel="icon" type="..." href="..."> (icono chiquito de la ventana) 
+<meta name="description" content="..."> (descripcion que sale en las busquedas por internet)
+<meta property="og:title" content="..."> (open graph) COMO SE VE AL COMPARTIR LA PAGINA
+<meta property="og:description" content="..."> (open graph) COMO SE VE AL COMPARTIR LA PAGINA
+<meta property="og:iamge" content="..."> (open graph) COMO SE VE AL COMPARTIR LA PAGINA
+</head>
+</html>
