@@ -1,1 +1,12 @@
-<>
+<Strong>sirve para resaltar una parte del texto (<p>Hola soy Daniel y soy <strong>Desarrollador Web</strong></p>
+
+<ul> (lista desordenada)
+  <li></li>
+</ul>
+
+<ul> (lista ordenada)
+  <li></li>
+</ul>
+
+<img class="... "id="... "title="..." alt="..." src="..."> (el alt se utiliza para describir una imagen) 
+(el title se utiliza para mostrar el titulo de la imagen cuando el mouse pasa por encima de la foto) (id es unico) (class pueden ser varios para vincularse con css)
